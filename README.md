@@ -1,3 +1,9 @@
+# Work log
+
+13.07.2021 [Project - Bike Sharing](https://github.com/qiyan98/deep-learning-v2-pytorch/tree/master/project-bikesharing) **done**
+
+
+
 # Deep Learning (PyTorch) - ND101 v7
 
 This repository contains material related to Udacity's [Deep Learning v7 Nanodegree program](https://www.udacity.com/course/deep-learning-nanodegree--nd101). It consists of a bunch of tutorial notebooks for various deep learning topics. In most cases, the notebooks lead you through implementing models such as convolutional networks, recurrent networks, and GANs. There are other topics covered such as weight initialization and batch normalization.
@@ -79,7 +85,7 @@ Using Anaconda consists of the following:
 
 **Download** the latest version of `miniconda` that matches your system.
 
-|        | Linux | Mac | Windows | 
+|        | Linux | Mac | Windows |
 |--------|-------|-----|---------|
 | 64-bit | [64-bit (bash installer)][lin64] | [64-bit (bash installer)][mac64] | [64-bit (exe installer)][win64]
 | 32-bit | [32-bit (bash installer)][lin32] |  | [32-bit (exe installer)][win32]
