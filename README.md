@@ -1,6 +1,6 @@
 # Work log
 
-13.07.2021 [Project - Bike Sharing](https://github.com/qiyan98/deep-learning-v2-pytorch/tree/master/project-bikesharing) **done**
+13.07.2021 [Project - Bike Sharing](https://github.com/Jianhao-zheng/deep-learning-v2-pytorch/tree/master/project-bikesharing) **done**
 
 
 
