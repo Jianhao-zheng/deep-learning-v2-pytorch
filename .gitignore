@@ -1,2 +1,8 @@
 .ipynb_checkpoints
 .github/**
+project-dog-classification/dogImages
+project-dog-classification/lfw/
+project-dog-classification/model_scratch.pt
+project-dog-classification/model_scratch_last.pt
+project-dog-classification/model_transfer.pt
+project-dog-classification/model_transfer_last.pt
