@@ -2,7 +2,11 @@
 
 13.07.2021 [Project - Bike Sharing](https://github.com/Jianhao-zheng/deep-learning-v2-pytorch/tree/master/project-bikesharing) **done**
 
+18.07.2021 [Project - Dog Classification](https://github.com/Jianhao-zheng/deep-learning-v2-pytorch/blob/master/project-dog-classification/dog_app.ipynb) **done**
 
+# Acknowledgement
+
+This repo is forked from [here](https://github.com/udacity/deep-learning-v2-pytorch). Thanks to [Deep Learning ND program](https://www.udacity.com/course/deep-learning-nanodegree--nd101) for open-sourcing these amazing exercises and projects. :smile:
 
 # Deep Learning (PyTorch) - ND101 v7
 
