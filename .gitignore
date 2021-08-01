@@ -7,3 +7,6 @@ project-dog-classification/model_scratch_last.pt
 project-dog-classification/model_transfer.pt
 project-dog-classification/model_transfer_last.pt
 intro-to-pytorch/Cat_Dog_data
+CNN/transfer-learning/flower_photos
+CNN/convolutional-neural-networks/cifar-cnn/data/
+CNN/convolutional-neural-networks/mnist-mlp/data/
