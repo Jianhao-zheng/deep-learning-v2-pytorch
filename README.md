@@ -1,8 +1,17 @@
 # Work log
 
-13.07.2021 [Project - Bike Sharing](https://github.com/Jianhao-zheng/deep-learning-v2-pytorch/tree/master/project-bikesharing) **done**
+| Title                                         | Code and Files                                               | Status                  | Date       |
+| --------------------------------------------- | ------------------------------------------------------------ | ----------------------- | ---------- |
+| **Introduction to PyTorch**                   | [intro-to-pytorch](https://github.com/Jianhao-zheng/deep-learning-v2-pytorch/tree/master/intro-to-pytorch) | :ballot_box_with_check: | 01.08.2021 |
+| **Convolutional Neural Networks**             | [CNN](/CNN)                                                  | :construction:          | /          |
+| **Recurrent Neural Networks**                 | [RNN](/RNN)                                                  | :construction:          | /          |
+| **Generative Adversarial Networks**           | [GAN](/GAN)                                                  | :construction:          | /          |
+| Project: **Predicting Bike-Sharing Patterns** | [project-bikesharing](https://github.com/Jianhao-zheng/deep-learning-v2-pytorch/tree/master/project-bikesharing) | :ballot_box_with_check: | 13.07.2021 |
+| Project: **Dog Breed Classifier**             | [project-dog-classification](https://github.com/Jianhao-zheng/deep-learning-v2-pytorch/tree/master/project-dog-classification) | :ballot_box_with_check: | 18.07.2021 |
+| Project: **TV Script Generation**             | [project-tv-script-generation](https://github.com/Jianhao-zheng/deep-learning-v2-pytorch/tree/master/project-tv-script-generation) | :construction:          | /          |
+| Project: **Face Generation**                  | [project-face-generation](https://github.com/Jianhao-zheng/deep-learning-v2-pytorch/tree/master/project-face-generation) | :construction:          | /          |
 
-18.07.2021 [Project - Dog Classification](https://github.com/Jianhao-zheng/deep-learning-v2-pytorch/blob/master/project-dog-classification/dog_app.ipynb) **done**
+
 
 # Acknowledgement
 
