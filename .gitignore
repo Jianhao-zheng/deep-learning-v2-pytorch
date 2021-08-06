@@ -10,3 +10,5 @@ intro-to-pytorch/Cat_Dog_data
 CNN/convolutional-neural-networks/cifar-cnn/data/
 CNN/convolutional-neural-networks/mnist-mlp/data/
 RNN/word2vec-embeddings/data/
+GAN/batch-norm/data/
+GAN/gan-mnist/data/
