@@ -5,7 +5,7 @@
 |          **Introduction to PyTorch**          | [intro-to-pytorch](https://github.com/Jianhao-zheng/deep-learning-v2-pytorch/tree/master/intro-to-pytorch) | :ballot_box_with_check: | 01.08.2021 |
 |       **Convolutional Neural Networks**       |                         [CNN](/CNN)                          | :ballot_box_with_check: | 02.08.2021 |
 |         **Recurrent Neural Networks**         |                         [RNN](/RNN)                          | :ballot_box_with_check: | 04.08.2021 |
-|      **Generative Adversarial Networks**      |                         [GAN](/GAN)                          |     :construction:      |     /      |
+|      **Generative Adversarial Networks**      |                         [GAN](/GAN)                          | :ballot_box_with_check: | 07.08.2021 |
 | Project: **Predicting Bike-Sharing Patterns** | [project-bikesharing](https://github.com/Jianhao-zheng/deep-learning-v2-pytorch/tree/master/project-bikesharing) | :ballot_box_with_check: | 13.07.2021 |
 |       Project: **Dog Breed Classifier**       | [project-dog-classification](https://github.com/Jianhao-zheng/deep-learning-v2-pytorch/tree/master/project-dog-classification) | :ballot_box_with_check: | 18.07.2021 |
 |       Project: **TV Script Generation**       | [project-tv-script-generation](https://github.com/Jianhao-zheng/deep-learning-v2-pytorch/tree/master/project-tv-script-generation) |     :construction:      |     /      |
