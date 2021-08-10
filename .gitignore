@@ -14,3 +14,4 @@ GAN/batch-norm/data/
 GAN/gan-mnist/data/
 GAN/cycle-gan/summer2winter_yosemite/
 project-face-generation/processed_celeba_small/
+project-tv-script-generation/trained_rnn.pt
