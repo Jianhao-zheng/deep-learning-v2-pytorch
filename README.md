@@ -9,7 +9,7 @@
 | Project: **Predicting Bike-Sharing Patterns** | [project-bikesharing](https://github.com/Jianhao-zheng/deep-learning-v2-pytorch/tree/master/project-bikesharing) | :ballot_box_with_check: | 13.07.2021 |
 |       Project: **Dog Breed Classifier**       | [project-dog-classification](https://github.com/Jianhao-zheng/deep-learning-v2-pytorch/tree/master/project-dog-classification) | :ballot_box_with_check: | 18.07.2021 |
 |       Project: **TV Script Generation**       | [project-tv-script-generation](https://github.com/Jianhao-zheng/deep-learning-v2-pytorch/tree/master/project-tv-script-generation) | :ballot_box_with_check: | 10.08.2021 |
-|         Project: **Face Generation**          | [project-face-generation](https://github.com/Jianhao-zheng/deep-learning-v2-pytorch/tree/master/project-face-generation) |     :construction:      |     /      |
+|         Project: **Face Generation**          | [project-face-generation](https://github.com/Jianhao-zheng/deep-learning-v2-pytorch/tree/master/project-face-generation) | :ballot_box_with_check: | 11.08.2021 |
 
 
 
